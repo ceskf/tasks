@@ -1,0 +1,18 @@
+body{
+	font-family: "Calibri"
+}
+.input_text{
+	width: 350px;
+}
+#auth{
+	width: 400px;
+	margin-left: -200px;
+}
+#loader,
+#error{
+	display: none;
+}
+#error{
+	color: red;
+	font-weight: bold;
+}
